@@ -1,0 +1,39 @@
+Sugestões:
+
+
+	Aba "Home":
+
+- Ao colocar uma senha incorreta, avisar ao usuário onde está o erro (ex.: "Senha incorreta."), pois a mensagem atual "Problemas com o login do usuário" gera inúmeras dúvidas;
+
+- Da mesma forma, quando o usuário insere um login que não está cadastrado, avisar especificamente qual é o problema:"Usuário não cadastrado.";
+
+- Criar requisitos básicos para a criação da senha, como por exemplo a necessidade de letras maiúsculas e minúsculas, números e caracteres especiais, bem como uma quantidade mínima de caracteres (no modelo atual do site é possível criar senhas de apenas 1 caracter, quando deveria ser algo inaceitável). Como o site trata de informações financeiras, merece um cuidado especial com relação à segurança das informações.
+
+
+	Aba "Contas":
+
+- Aumentar o tamanho dos ícones das ações possíveis para cada conta, bem como possibilitar detalhar cada conta (ex.: dados como agência e conta);
+
+- No momento de excluir algum item, perguntar ao usuário se "tem certeza que deseja excluir?", para leva-lo a pensar com cautela, uma vez que as informações não ficam armazenadas em "lixo temporário" e serão excluídas permanentemente.
+
+
+	Aba "Criar Movimentação":
+
+- No local de inserir a data da movimentação e do pagamento, mostrar um calendário em que o usúario possa inserir a data. Ou, no mínimo, colocar automaticamente o padrão data (ex.: xx/xx/xxxx);
+
+- Na área dos interessados, poderíamos ter a opção de cadastrar alguns "clientes" fixos, para o caso de pessoas que vendem/compram a fornecedores específicos, tornando mais rápido e fácil o preenchimento desta aba;
+
+- Na área do valor, colocar uma formatação específica (ex.: xx,xx) e possivelmente até uma opção para escolher em qual moeda foi feita a transação (ex.: real, dólar, euro, etc);
+
+- Incluir formas de pagamento (ex.: crédito, débito, cheque, bandeiras específicas), mas não tornar esta opção obrigatória. Assim, quem precisa desses dados poderá incluir em seus relatórios, mas quem não precisa, não terá que preencher;
+
+- ERRO: o local do valor não permite a inclusão de vírgula para incluir decimais, apenas o ponto. Deveria reconhecer os dois, ou, prioritáriamente a vírgula, já que é o padrão correto para valores numéricos.
+
+
+	Aba "Resumo Mensal":
+
+- Incluir alguns filtros de busca, como por exemplo: busca através de data de pagamento, ou através de data da movimentação, ou através de contas diferentes, ou através de valores (do menor para o maior, ou do maior para o menor), por situação (pagos ou pendentes), ou através de interessados específicos;
+
+- Ainda na aba de busca, exibir a opção de mostrar todas as transações em geral, e também todas as transações por ano;
+
+- ERRO: exibir a data de movimentação, pois após inserir esse dado, o site não permite mais que o usuário tenha acesso a essa informação. Não tem lógica.
