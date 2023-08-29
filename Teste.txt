@@ -1,0 +1,12 @@
+cd (nome da pasta ou cd sozinho pra ir pra a home)
+git clone (url do repósitorio)
+git add . (adiciona todos os arquivos)
+git add (nome do arquivo - adiciona somente o arquivo)
+git commit -m "comentário sobre o que foi feito"
+git push
+
+ls (mostra o que tem na pasta)
+cd .. (volta 1 pasta)
+git status
+git log (mostra os commits em ordem)
+git checkout "branch" (volta ao commit escolhido)
