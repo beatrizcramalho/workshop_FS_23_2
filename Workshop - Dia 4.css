@@ -1,0 +1,42 @@
+body{
+    text-align: center;
+    align-content: center;
+    margin: 3;
+    padding: 0;
+    color: lightgray;
+    background-color: rgb(42, 1, 42);
+    font-family: 'Segoe UI';
+    width: auto;
+    font-size: larger;
+}
+
+hr {
+    size: 5;
+    width: 30%;
+}
+
+h2 {
+    color: rgb(210, 134, 210);
+}
+
+#github {
+    width: 80px;
+    height: 80px;
+    cursor: pointer;
+}
+
+#linkedin {
+    width: 80px;
+    height: 80px;
+    cursor: pointer;
+}
+
+#instagram {
+    width: 80px;
+    height: 80px;
+    cursor: pointer;
+}
+
+/* Usar ".nome-da-label" para configurar todos que se encaixarem nos mesmos.*/
+
+/* O CSS dá prioridade a comandos mais específicos.*/
